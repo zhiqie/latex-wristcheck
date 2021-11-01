@@ -1,0 +1,2 @@
+# latex-wristcheck
+latex  pdf
